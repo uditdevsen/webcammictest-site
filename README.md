@@ -35,15 +35,15 @@ In today’s digital-first world, webcams and microphones are essential for vide
 
 Below is a detailed overview of all pages on **WebcamMicTest.io** with SEO-optimized descriptions:  
 
-### 1. 🖥️ [Webcam Test](https://webcammictest.io/webcam-test)  
+### 1. 🖥️ [Webcam Test](https://webcammictest.io/)  
 Easily check if your camera is working. This page shows a live feed from your webcam and verifies resolution, FPS, and quality. Perfect for Zoom, Google Meet, or streaming preparation.  
 - Keywords: *webcam test, camera test online, check webcam, webcam preview*  
 
-### 2. 🎤 [Microphone Test](https://webcammictest.io/microphone-test)  
+### 2. 🎤 [Microphone Test](https://webcammictest.io/mic-test)  
 Speak into your mic and watch the sound levels respond in real-time. Detect issues like muted microphones, incorrect device selection, or broken audio input.  
 - Keywords: *microphone test online, mic test tool, check microphone online, sound test*  
 
-### 3. 🎬 [Webcam Recorder](https://webcammictest.io/webcam-recorder)  
+### 3. 🎬 [Webcam Recorder](https://webcammictest.io/recorder)  
 Record videos directly from your webcam and save them instantly to your computer. No software installation required.  
 - Keywords: *webcam recorder, record webcam online, online video recorder*  
 
@@ -51,7 +51,7 @@ Record videos directly from your webcam and save them instantly to your computer
 Turn your device into a real-time mirror using your webcam. Handy for quick appearance checks before meetings.  
 - Keywords: *online mirror, webcam mirror, free mirror online, camera mirror tool*  
 
-### 5. 📡 [Mic Test Tools & Guides](https://webcammictest.io/mic-tools)  
+### 5. 📡 [Mic Test Tools & Guides](https://webcammictest.io/docs/getting-started/introduction)  
 Educational resources explaining how to troubleshoot microphone problems, adjust settings, and optimize sound quality.  
 - Keywords: *fix microphone issues, mic troubleshooting, online audio tools*  
 ---
