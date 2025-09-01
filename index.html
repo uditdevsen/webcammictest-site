@@ -1,50 +1,188 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>WebCamMicTest.io • Free Online Webcam & Mic Tools</title>
-  <meta name="description" content="WebCamMicTest.io offers free, secure, no-install tools: webcam test, mic test, online mirror, webcam recorder. Works on all devices.">
-  <meta name="keywords" content="webcam test, mic test, online mirror, webcam recorder, test camera online, mic check">
-  <link rel="canonical" href="https://uditdevsen.github.io/">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="WebcamMicTest.io – Free online tools to test your webcam, microphone, record video, and use an online mirror. Simple, secure, and browser-based." />
+  <meta name="keywords" content="webcam test, mic test, webcam recorder, online mirror, webcam online, microphone check, video recording tool" />
+  <meta name="author" content="webcammictest.io" />
+  <title>WebcamMicTest.io | Free Webcam & Mic Test Tools</title>
+  <link rel="icon" href="https://webcammictest.io/favicon.ico" />
+
+  <style>
+    /* Global Styles */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background: #f8f9fa;
+      color: #333;
+    }
+    a {
+      text-decoration: none;
+      color: #0077cc;
+      transition: color 0.3s ease;
+    }
+    a:hover {
+      color: #005fa3;
+    }
+
+    /* Header */
+    header {
+      background: #0077cc;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2rem;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      margin: 0 15px;
+      color: #fff;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    /* Hero Section */
+    .hero {
+      padding: 50px 20px;
+      text-align: center;
+      background: linear-gradient(135deg, #0077cc, #00aaff);
+      color: #fff;
+    }
+    .hero h2 {
+      font-size: 2.2rem;
+      margin-bottom: 20px;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      margin-bottom: 20px;
+    }
+    .hero a {
+      background: #fff;
+      color: #0077cc;
+      padding: 10px 20px;
+      border-radius: 6px;
+      font-weight: bold;
+      display: inline-block;
+    }
+
+    /* Features Section */
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      padding: 40px 20px;
+      max-width: 1200px;
+      margin: auto;
+    }
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+    }
+    .card h3 {
+      margin-bottom: 15px;
+      font-size: 1.3rem;
+      color: #0077cc;
+    }
+    .card p {
+      font-size: 0.95rem;
+      margin-bottom: 15px;
+    }
+    .card a {
+      display: inline-block;
+      margin-top: 10px;
+      background: #0077cc;
+      color: #fff;
+      padding: 8px 15px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+
+    /* Footer */
+    footer {
+      background: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+      margin-top: 40px;
+    }
+    footer a {
+      color: #00aaff;
+    }
+    footer p {
+      margin: 5px 0;
+      font-size: 0.9rem;
+    }
+  </style>
 </head>
 <body>
+
+  <!-- Header -->
   <header>
-    <h1>WebCamMicTest.io — Free & Secure Browser Tools</h1>
-    <p>Test your webcam, mic, mirror yourself, or record online in seconds — no downloads, no signup.</p>
+    <h1>WebcamMicTest.io</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/webcam-test">Webcam Test</a>
+      <a href="/mic-test">Mic Test</a>
+      <a href="/webcam-recorder">Recorder</a>
+      <a href="/online-mirror">Mirror</a>
+    </nav>
   </header>
 
-  <nav>
-    <ul>
-      <li><a href="https://webcammictest.io/">Home – Webcam Test</a></li>
-      <li><a href="https://webcammictest.io/mic-test">Mic Test Online</a></li>
-      <li><a href="https://webcammictest.io/online-mirror">Online Mirror Tool</a></li>
-      <li><a href="https://webcammictest.io/recorder">Webcam Recorder</a></li>
-    </ul>
-  </nav>
-
-  <section>
-    <h2>Features Overview</h2>
-    <ul>
-      <li><strong>Webcam Test:</strong> Verify camera health & image quality. :contentReference[oaicite:0]{index=0}</li>
-      <li><strong>Mic Test:</strong> Record and visualize your audio—locally in browser. :contentReference[oaicite:1]{index=1}</li>
-      <li><strong>Online Mirror:</strong> Real-time webcam mirror with filters and selfie effects. :contentReference[oaicite:2]{index=2}</li>
-      <li><strong>Webcam Recorder:</strong> Record video or photos with filters—no apps required. :contentReference[oaicite:3]{index=3}</li>
-    </ul>
+  <!-- Hero -->
+  <section class="hero">
+    <h2>Test Your Webcam & Microphone Instantly</h2>
+    <p>Free online tools to check your camera, microphone, and record video right in your browser.</p>
+    <a href="/webcam-test">Start Webcam Test</a>
   </section>
 
-  <section>
-    <h2>Why Use WebCamMicTest.io?</h2>
-    <ul>
-      <li>No Installation, No Signup — instant access from browser.</li>
-      <li>Supports all devices and modern browsers. :contentReference[oaicite:4]{index=4}</li>
-      <li>Privacy-first: everything runs locally—nothing is stored on servers. :contentReference[oaicite:5]{index=5}</li>
-    </ul>
+  <!-- Features -->
+  <section class="features">
+    <div class="card">
+      <h3>🎥 Webcam Test</h3>
+      <p>Check your camera quality, resolution, and settings instantly.</p>
+      <a href="/webcam-test">Try Webcam Test</a>
+    </div>
+    <div class="card">
+      <h3>🎤 Microphone Test</h3>
+      <p>Record your voice, adjust audio levels, and verify mic input.</p>
+      <a href="/mic-test">Try Mic Test</a>
+    </div>
+    <div class="card">
+      <h3>📹 Webcam Recorder</h3>
+      <p>Record video directly in your browser, no download needed.</p>
+      <a href="/webcam-recorder">Try Recorder</a>
+    </div>
+    <div class="card">
+      <h3>🪞 Online Mirror</h3>
+      <p>Use your camera as a real-time mirror, perfect for quick checks.</p>
+      <a href="/online-mirror">Try Mirror</a>
+    </div>
   </section>
 
+  <!-- Footer -->
   <footer>
-    <p>Visit the full tools at <a href="https://webcammictest.io/">WebCamMicTest.io</a>.</p>
-    <p>Privacy Policy | Disclaimer | © 2025 WebCamMicTest.io</p>
+    <p>&copy; 2025 <a href="https://webcammictest.io/">WebcamMicTest.io</a> | Free Webcam & Mic Tools</p>
+    <p><a href="/privacy-policy">Privacy Policy</a> | <a href="/contact">Contact</a></p>
   </footer>
+
 </body>
 </html>
