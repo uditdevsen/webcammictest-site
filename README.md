@@ -21,3 +21,41 @@ Welcome! This repository showcases **WebCamMicTest.io** via GitHub Pages, provid
 
 The GitHub Pages version is live at:
 
+It mirrors the core toolset present at `https://webcammictest.io/`, offering users a quick overview and direct access.
+
+### How It Works
+
+1. Clone or fork this repo.
+2. Edit `index.html` to fit your branding or add new features.
+3. Push to `main` branch (or default branch).
+4. GitHub Pages will auto-deploy to `https://uditdevsen.github.io/`.
+
+---
+
+##  Improvements & Contributions
+
+Feel free to:
+
+- Add CSS for styling
+- Extend with subpages (e.g., FAQs, device requirements)
+- Include screenshots or demo videos
+- Optimize SEO further with structured data (e.g., JSON-LD)
+
+---
+
+##  About WebCamMicTest.io
+
+Owned and maintained by [Your Name or Organization], this project delivers essential browser tools for webcam and audio testing with a strong focus on usability and privacy.
+
+---
+
+*SEO Keywords: online webcam test, microphone test online, live mirror tool, webcam recorder, browser-based test tools*
+
+---
+
+##  Licensing & Footer
+
+This GitHub Pages project is released under the MIT License. For legal and privacy details, see the linked pages on the main site.
+
+© 2025 WebCamMicTest.io
+
