@@ -131,6 +131,34 @@
       margin: 5px 0;
       font-size: 0.9rem;
     }
+    .screenshots {
+  padding: 40px;
+  text-align: center;
+}
+
+.screenshots h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.image-gallery {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.image-gallery img {
+  max-width: 400px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease;
+}
+
+.image-gallery img:hover {
+  transform: scale(1.05);
+}
+
   </style>
 </head>
 <body>
@@ -177,6 +205,14 @@
       <a href="https://webcammictest.io/online-mirror">Try Mirror</a>
     </div>
   </section>
+  <section id="screenshots" class="screenshots">
+  <h2>Webcam Test & Recorder – Preview</h2>
+  <div class="image-gallery">
+    <img src="/webcammictest.io.png" alt="Webcam Test Homepage Screenshot">
+    <img src="/web-cam-recoder-online.png" alt="Webcam Recorder Online Screenshot">
+  </div>
+</section>
+
 
   <!-- Footer -->
   <footer>
