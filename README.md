@@ -55,6 +55,14 @@ Turn your device into a real-time mirror using your webcam. Handy for quick appe
 Educational resources explaining how to troubleshoot microphone problems, adjust settings, and optimize sound quality.  
 - Keywords: *fix microphone issues, mic troubleshooting, online audio tools*  
 ---
+## 📸 Screenshots
+
+### Homepage – Webcam Test Tool
+![Webcam Test Screenshot](webcammictest.io.png)
+
+### Webcam Recorder Page
+![Webcam Recorder Screenshot](web-cam-recoder-online.png)
+
 
 ## 🛠️ How It Works  
 
