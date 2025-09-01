@@ -1,61 +1,76 @@
-# WebCamMicTest.io — Browser-Based Tests & Tools
+# WebcamMicTest.io – Free Online Webcam & Microphone Testing Tools  
 
-Welcome! This repository showcases **WebCamMicTest.io** via GitHub Pages, providing a polished landing page that links to essential tools:
+Welcome to **[WebcamMicTest.io](https://webcammictest.io/)** – a free, browser-based platform that helps you test, troubleshoot, and use your webcam and microphone directly online. Whether you are preparing for an online meeting, recording a video, or just checking your hardware, our tools are simple, fast, and privacy-friendly.  
 
-- **Webcam Test** – Check camera functionality, troubleshoot quality issues. :contentReference[oaicite:6]{index=6}  
-- **Mic Test** – Record and visualize microphone input directly in browser. :contentReference[oaicite:7]{index=7}  
-- **Online Mirror** – Use your webcam as a mirror with live filters and effects. :contentReference[oaicite:8]{index=8}  
-- **Webcam Recorder** – Shoot video or snap photos with real-time filters—no downloads needed. :contentReference[oaicite:9]{index=9}
+This README provides a complete overview of the project, including available tools, SEO-friendly descriptions, setup instructions, and contribution guidelines.  
 
 ---
 
-##  Key Advantages
+## 🌐 About WebcamMicTest.io  
 
-- **No install, no signup** — access instantly in any modern browser. :contentReference[oaicite:10]{index=10}  
-- **Cross-device compatible** — works seamlessly on desktop, mobile, and tablets. :contentReference[oaicite:11]{index=11}  
-- **Privacy-focused architecture** — all actions are processed locally; we don’t store media. :contentReference[oaicite:12]{index=12}
+In today’s digital-first world, webcams and microphones are essential for video calls, online learning, streaming, and content creation. Unfortunately, many users face issues like:  
+- Webcam not detected  
+- Poor video quality  
+- No microphone input  
+- Background noise  
 
----
-
-##  Live Demo & Deployment
-
-The GitHub Pages version is live at:
-
-It mirrors the core toolset present at `https://webcammictest.io/`, offering users a quick overview and direct access.
-
-### How It Works
-
-1. Clone or fork this repo.
-2. Edit `index.html` to fit your branding or add new features.
-3. Push to `main` branch (or default branch).
-4. GitHub Pages will auto-deploy to `https://uditdevsen.github.io/`.
+**WebcamMicTest.io** solves this problem by providing free, one-click online tools to **test, record, and troubleshoot** your devices – without installing any software.  
 
 ---
 
-##  Improvements & Contributions
+## 🚀 Key Features  
 
-Feel free to:
-
-- Add CSS for styling
-- Extend with subpages (e.g., FAQs, device requirements)
-- Include screenshots or demo videos
-- Optimize SEO further with structured data (e.g., JSON-LD)
-
----
-
-##  About WebCamMicTest.io
-
-Owned and maintained by [Your Name or Organization], this project delivers essential browser tools for webcam and audio testing with a strong focus on usability and privacy.
+- ✅ **Free Online Testing** – No downloads or sign-ups required  
+- 🎥 **Webcam Test Tool** – Instantly preview your camera feed in your browser  
+- 🎤 **Microphone Test Tool** – Check mic input levels and sound clarity  
+- 🎬 **Webcam Recorder** – Record videos online and save them instantly  
+- 🪞 **Online Mirror** – Use your webcam as a real-time digital mirror  
+- 🔒 **Privacy First** – All testing happens in your browser, no video/audio is uploaded to servers  
+- 🌍 **Cross-Platform** – Works on Windows, Mac, Linux, iOS, and Android devices  
+- ⚡ **Fast & Lightweight** – Optimized for quick testing without slowing down your system  
 
 ---
 
-*SEO Keywords: online webcam test, microphone test online, live mirror tool, webcam recorder, browser-based test tools*
+## 📑 Main Pages of the Website  
+
+Below is a detailed overview of all pages on **WebcamMicTest.io** with SEO-optimized descriptions:  
+
+### 1. 🖥️ [Webcam Test](https://webcammictest.io/webcam-test)  
+Easily check if your camera is working. This page shows a live feed from your webcam and verifies resolution, FPS, and quality. Perfect for Zoom, Google Meet, or streaming preparation.  
+- Keywords: *webcam test, camera test online, check webcam, webcam preview*  
+
+### 2. 🎤 [Microphone Test](https://webcammictest.io/microphone-test)  
+Speak into your mic and watch the sound levels respond in real-time. Detect issues like muted microphones, incorrect device selection, or broken audio input.  
+- Keywords: *microphone test online, mic test tool, check microphone online, sound test*  
+
+### 3. 🎬 [Webcam Recorder](https://webcammictest.io/webcam-recorder)  
+Record videos directly from your webcam and save them instantly to your computer. No software installation required.  
+- Keywords: *webcam recorder, record webcam online, online video recorder*  
+
+### 4. 🪞 [Online Mirror](https://webcammictest.io/online-mirror)  
+Turn your device into a real-time mirror using your webcam. Handy for quick appearance checks before meetings.  
+- Keywords: *online mirror, webcam mirror, free mirror online, camera mirror tool*  
+
+### 5. 📡 [Mic Test Tools & Guides](https://webcammictest.io/mic-tools)  
+Educational resources explaining how to troubleshoot microphone problems, adjust settings, and optimize sound quality.  
+- Keywords: *fix microphone issues, mic troubleshooting, online audio tools*  
+---
+
+## 🛠️ How It Works  
+
+1. Visit **[WebcamMicTest.io](https://webcammictest.io/)**  
+2. Choose the tool you want: Webcam Test, Mic Test, Recorder, or Mirror  
+3. Allow browser permissions for camera/mic access  
+4. Use the tool instantly – all processing stays in your browser  
+5. Save results (for recorder) or troubleshoot issues as needed  
 
 ---
 
-##  Licensing & Footer
+## 📥 Local Development (For Contributors)  
 
-This GitHub Pages project is released under the MIT License. For legal and privacy details, see the linked pages on the main site.
+If you want to run this project locally or contribute to improvements:  
 
-© 2025 WebCamMicTest.io
-
+### 1. Clone Repository  
+```bash
+git clone https://github.com/uditdevsen/webcammictest-site.git
+cd webcammictest-site
